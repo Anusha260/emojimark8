@@ -1,2 +1,2 @@
-# emojimark8
+# neogcamp-practice-emoji-app
 Created with CodeSandbox
